@@ -1,2 +1,3 @@
 Hello Adam!
 The sun is shining.
+It is hot.
